@@ -2,7 +2,7 @@ name: 'sdf-install'
 description: 'Run common installation steps for a NetSuite SDF Project'
 inputs:
   ns-account-id:
-    description: 'The Account ID of the target NetSuite environment'
+    description: 'The Account ID of the target NetSuite environment '
     required: true
   ns-token-id:
     description: 'The Token ID for authenticating to the target NetSuite environment'
